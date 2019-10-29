@@ -1,0 +1,14 @@
+{
+  "name": "render",
+  "version": "1.0.0",
+  "description": "rendering files and data",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "rahul",
+  "license": "ISC",
+  "dependencies": {
+    "electron": "^7.0.0"
+  }
+}
